@@ -1,16 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m currently working on application of Computer vision
+<!-- - 🔭 I’m currently working on application of Computer vision -->
 - 🌱 I’m currently learning Computer vision
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 💬 Ask me about Deep learning
+- 😄 Pronouns: He/Him
 
 
-<!--
-**sachin11226/sachin11226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sachin-raj-1b6689201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-raj-1b6689201" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sachinmlwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sachinmlwala" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_sachin_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_sachin_raj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sachinraj5311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sachinraj5311" height="30" width="40" /></a>
+</p>
